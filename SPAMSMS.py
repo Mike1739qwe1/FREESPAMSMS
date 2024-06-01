@@ -42,8 +42,8 @@ class SMS():
         send = session.post(url,data=data,headers=headers).json()
         init()
         print(Fore.GREEN + "สำเร็จ.. : " + Fore.YELLOW + str(random.randint(1,100)))
-t = SMS()
-def loop(num):
-    for i in range(num):
-        t.spamais(numbers)
-loop(num)
+t = SMS(100)
+def loop(num):0946025475
+    for i in range(num):0946025475
+        t.spamais(0946025475)
+loop(0946025475)
